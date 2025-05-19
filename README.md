@@ -1,6 +1,6 @@
 Hey there!
 Looking to master Java and its main frameworks.
-Currently, I work as systems analyst at Unify.
+Currently, I work as systems analyst at Mitel.
 
 <!---
 lucasandre22/lucasandre22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
